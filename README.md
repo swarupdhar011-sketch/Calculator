@@ -84,14 +84,12 @@ SmartCalc/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/swarupdhar011-sketch/SmartCalc.git
-```
+git clone https://github.com/swarupdhar011-sketch/Calculator.git```
 
 ### 2. Navigate to the project directory
 
 ```bash
-cd SmartCalc
-```
+cd Calculator```
 
 ### 3. Run the application
 
